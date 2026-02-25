@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Venture Safaris - East Africa Tourism Ecosystem 2",
+  "description": "A digital gateway for African travel focusing on Uganda, Kenya, and Tanzania, featuring AI-driven planning, accommodation booking, flight search, and guide directories.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
